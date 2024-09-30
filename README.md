@@ -1,2 +1,2 @@
-- npm i: cài đặt thư viện cần thiết
-- npm run dev
+- npm i: cài đặt thư viện cần thiết (cho lần đầu tải)
+- npm run dev : chạy project
