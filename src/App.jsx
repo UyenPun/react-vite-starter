@@ -3,12 +3,13 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
 
-function App() {
+// const tenHam = () => {};
+const App = () => {
   const [count, setCount] = useState(0);
 
   // Arrow Function:
-  // () => {};
-  const myFunction = (...args) => {
+  // const tenHam = () => {};
+  const myFunction = () => {
     console.log("hello Babe");
   };
 
@@ -50,6 +51,6 @@ function App() {
       </p>
     </>
   );
-}
+};
 
 export default App;
