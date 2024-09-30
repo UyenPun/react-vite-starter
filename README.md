@@ -1,0 +1,2 @@
+- npm i: cài đặt thư viện cần thiết
+- npm run dev
