@@ -1,8 +1,8 @@
 {
-  "name": "base-react-vite-hoidanit",
+  "name": "base-react-vite",
   "author": {
-    "name": "Hỏi Dân IT & Eric",
-    "url": "https://hoidanit.vn"
+    "name": "Tran Uyen",
+    "url": "https://www.facebook.com/punpun2812/"
   },
   "private": true,
   "version": "0.0.1",
@@ -15,7 +15,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "base-react-vite-hoidanit": "file:",
+    "base-react-vite": "file:",
     "react": "18.3.1",
     "react-dom": "18.3.1"
   },
